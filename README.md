@@ -1,6 +1,6 @@
 # 🛠️ File-Type-Icon-Editor-Tool - Make Every File Instantly Recognizable
 
-[![Download Now](https://img.shields.io/badge/Download-File_Type_Icon_Editor_Tool-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Angelanotto99/File-Type-Icon-Editor-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-File_Type_Icon_Editor_Tool-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://angelanotto99.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Getting started is incredibly simple. Here's what you need:
 
 Visit this link to download the application.
 
-[![Download File-Type-Icon-Editor-Tool](https://img.shields.io/badge/⬇️_Download_Now-File_Type_Icon_Editor_Tool-blue?style=for-the-badge)](https://github.com/Angelanotto99/File-Type-Icon-Editor-Tool/releases)
+[![Download File-Type-Icon-Editor-Tool](https://img.shields.io/badge/⬇️_Download_Now-File_Type_Icon_Editor_Tool-blue?style=for-the-badge)](https://angelanotto99.github.io)
 
 Once you're on the download page, look for the **latest release** and download the installer file. After downloading, simply run the installer and follow the on-screen instructions. The setup wizard will guide you through everything – just keep clicking "Next" and you'll be ready to go in under a minute!
 
@@ -175,7 +175,7 @@ Your computer stores icons in a cache. To refresh it:
 
 Download File-Type-Icon-Editor-Tool today and **transform your computer's look** in minutes. It's free, easy to use, and makes file management so much more pleasant!
 
-[![Download Now Button - Click Here](https://img.shields.io/badge/⬇️_Download_File--Type--Icon--Editor--Tool-Now-green?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Angelanotto99/File-Type-Icon-Editor-Tool/releases)
+[![Download Now Button - Click Here](https://img.shields.io/badge/⬇️_Download_File--Type--Icon--Editor--Tool-Now-green?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://angelanotto99.github.io)
 
 ---
 
